@@ -21,7 +21,7 @@ if __name__ == "__main__":
     """
         extract username
     """
-    username = user.get("username"
+    username = user.get("username")
 
     """
         request user's TODO list
