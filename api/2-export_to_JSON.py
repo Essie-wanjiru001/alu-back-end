@@ -6,7 +6,7 @@ import json
 import requests
 from sys import argv
 
-if__name__ == "__main__":
+if __name__ == "__main__":
     """
         request user info by employee ID
     """
